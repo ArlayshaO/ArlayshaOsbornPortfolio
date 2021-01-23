@@ -514,7 +514,7 @@ section {
   box-shadow:0 0 10px rgba(0,0,0,0.63);
 }
 .profile-card-5 h5{
-  color:#4E5E30;
+  color:black;
   font-weight:600;
 }
 .profile-card-5 p{
@@ -522,8 +522,8 @@ section {
   font-weight:300;
 }
 .profile-card-5 .btn-primary{
-  background-color:#4E5E30;
-  border-color:#4E5E30;
+  background-color:teal;
+  border-color:rosybrown;
 }
 
 /* end cards*/
